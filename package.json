@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sleepless256/dsh-memory-dict.git"
+    "url": "git+https://github.com/Sleepless256/memory-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/Sleepless256/dsh-memory-dict/issues"
+    "url": "https://github.com/Sleepless256/memory-plugin/issues"
   },
-  "homepage": "https://github.com/Sleepless256/dsh-memory-dict#readme",
+  "homepage": "https://github.com/Sleepless256/memory-plugin#readme",
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
