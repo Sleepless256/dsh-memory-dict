@@ -1,0 +1,9 @@
+# 本地测试用的依赖：指向 $DSH_HOME\profiles\node_modules 的目录联接
+node_modules/
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
